@@ -27,20 +27,20 @@
             "complexity": "O(2^n) [Exponential Risk]"
         },
         {
+            "pattern": "Linear Search",
+            "complexity": "O(n)"
+        },
+        {
+            "pattern": "Recursive Fibonacci",
+            "complexity": "O(2^n) [Exponential Risk]"
+        },
+        {
             "pattern": "Dynamic Programming (Memoization)",
             "complexity": "O(2^n) [Exponential Risk]"
         },
         {
-            "pattern": "Nested Iteration",
-            "complexity": "O(n^2)"
-        },
-        {
-            "pattern": "Nested Iteration",
-            "complexity": "O(n^2)"
-        },
-        {
-            "pattern": "Linear Search",
-            "complexity": "O(n)"
+            "pattern": "Fibonacci with Dynamic Programming (Memoization)",
+            "complexity": "O(2^n) [Exponential Risk]"
         }
     ]
 }
