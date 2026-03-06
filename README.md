@@ -242,9 +242,3 @@ Ideas aligned with the current design:
 ```
 
 ---
-
-## 🔎 Notes
-
-Some code references were discovered via GitHub code search (which can be incomplete due to search result limits). For full browsing:
-- https://github.com/sangsaist/Congnicode-VS-Extension
-- https://github.com/sangsaist/Congnicode-VS-Extension/search
