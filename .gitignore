@@ -1,0 +1,24 @@
+# Node.js
+Extension/node_modules/
+Extension/dist/
+Extension/out/
+*.log
+
+# Python
+__pycache__/
+venv/
+.venv/
+*.pyc
+*.pyo
+*.db
+.env
+
+# VS Code
+.vscode/
+Extension/.vscode/
+backend/.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
